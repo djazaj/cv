@@ -1,1 +1,1 @@
-https://djazaj.github.io/cv/cv-html
+https://djazaj.github.io/cv
